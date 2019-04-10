@@ -78,3 +78,6 @@ class BoundingBox(PointCloudData):
 
     def __len__(self):
         return
+    
+    
+# You can test your code by running testcases.py
